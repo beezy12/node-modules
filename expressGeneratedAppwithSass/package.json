@@ -1,0 +1,30 @@
+{
+  "name": "expressGeneratedAppwithSass",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "bower": "bower install"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "node-sass-middleware": "0.8.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7"
+  }
+}
+
+
+
+// use jade
+// jquery, font awesome,
+// use node webserver app. use index.jade to have images, use jquery (fade something in), an icon from font awesome.
+// use index.jade to sell our cal apps
+// use colors, use sass

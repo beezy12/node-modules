@@ -1,0 +1,21 @@
+{
+  "name": "expressGeneratedAppwithSass",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Brian Stumbaugh <brian.stumbuagh@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/beezy12/node-modules",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
