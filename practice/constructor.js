@@ -1,6 +1,6 @@
 function Animal(){}
 
-  Animal.prototype.poop = function() {
+  Animal.prototype.sound = function() {
     console.log("moo");
 };
 
